@@ -1,0 +1,14 @@
+.formstyle{
+    border:2px solid black;
+    width:160px;
+    height:280px;
+    margin: auto;
+   
+}
+.textBox{
+    width:150px;
+}
+input{
+    width:50px;
+    box-shadow: 0px 10px #888888;
+}
